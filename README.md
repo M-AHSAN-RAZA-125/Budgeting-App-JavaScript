@@ -3,6 +3,10 @@
 A simple and user-friendly **Budgeting App** built with HTML, CSS, and JavaScript.  
 The application allows users to set a total budget, add expenses, and keep track of their remaining balance.
 
+## 📸 Preview
+
+![Budgeting App Preview](budgeting-app-preview.png)
+
 ## 🚀 Live Demo
 
 👉 [View Budgeting App](https://budgeting-app-1.netlify.app/)
