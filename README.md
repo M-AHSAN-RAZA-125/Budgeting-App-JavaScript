@@ -5,7 +5,7 @@ The application allows users to set a total budget, add expenses, and keep track
 
 ## 📸 Preview
 
-![Budgeting App Preview](budgeting-app-preview.png)
+![Budgeting App Preview](budgetting-app-preview.png)
 
 ## 🚀 Live Demo
 
